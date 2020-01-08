@@ -10,5 +10,8 @@
     "test"
   ],
   "author": "gusty",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^3.0.0"
+  }
 }
